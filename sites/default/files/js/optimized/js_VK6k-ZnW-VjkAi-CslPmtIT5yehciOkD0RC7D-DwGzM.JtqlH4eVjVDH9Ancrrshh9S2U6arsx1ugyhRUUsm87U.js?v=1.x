@@ -1,0 +1,4 @@
+/* Source and licensing information for the line(s) below can be found at https://www.delmonte.com/themes/delmonte/dist/js/typekit.min.js. */
+!function(a){var b,c={kitId:"muh5jkq",async:!0},d=a.documentElement,e=setTimeout(function(){d.className=d.className.replace(/\bwf-loading\b/g,"")+" wf-inactive"},c.scriptTimeout),f=a.createElement("script"),g=!1,h=a.getElementsByTagName("script")[0];d.className+=" wf-loading",f.src="https://use.typekit.net/"+c.kitId+".js",f.async=!0,f.onload=f.onreadystatechange=function(){if(b=this.readyState,!(g||b&&"complete"!=b&&"loaded"!=b)){g=!0,clearTimeout(e);try{Typekit.load(c)}catch(a){}}},h.parentNode.insertBefore(f,h)}(document);
+//# sourceMappingURL=typekit.min.js.map
+/* Source and licensing information for the above line(s) can be found at https://www.delmonte.com/themes/delmonte/dist/js/typekit.min.js. */
